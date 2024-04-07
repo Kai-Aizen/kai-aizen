@@ -19,8 +19,10 @@ Meu nome é Matheus Monteiro e sou um estudante apaixonado por cybersegurança e
   
 ## Skills(Habilidades)
 - 💻 Full Stack Developer 
-- 🧑🏾‍🎓 enrolled in college
+- 🧑🏾‍🎓 Enrolled in college
 - 🐧 Linux
+- 🕵️‍♂️ Pentester
+   
 ## Contacts (Contatos)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-monteiro1/)
 </div>
